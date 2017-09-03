@@ -20,7 +20,7 @@ public class BombedMazeFactory extends MazeFactory {
         return new BombedWall();
     }
 
-    public class BombedWall extends Wall {
+    public static class BombedWall extends Wall {
 
     }
 

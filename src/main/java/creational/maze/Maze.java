@@ -3,7 +3,7 @@ package creational.maze;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Maze {
+public class Maze implements Cloneable {
 
     List<Room> rooms = new ArrayList();
 
@@ -14,5 +14,9 @@ public class Maze {
 
     public void addRoom(Room room) {
 
+    }
+
+    public Maze clone() throws CloneNotSupportedException {
+        return (Maze) super.clone();
     }
 }

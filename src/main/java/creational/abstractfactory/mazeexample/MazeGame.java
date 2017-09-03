@@ -7,7 +7,7 @@ import creational.maze.Room;
 
 public class MazeGame {
 
-    Maze createMaze(MazeFactory mazeFactory) {
+    public Maze createMaze(MazeFactory mazeFactory) {
         Maze aMaze = mazeFactory.MakeMaze();
         Room room1 = mazeFactory.MakeRoom(1);
         Room room2 = mazeFactory.MakeRoom(2);

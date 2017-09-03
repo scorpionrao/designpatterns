@@ -7,7 +7,7 @@ public class Client {
     ManagingDirector1 director;
 
     /**
-     * Client has a dependency on managing director.
+     * USPlug has a dependency on managing director.
      * Managing director encapsulates the builders.
      */
     Client(ManagingDirector1 director) {
@@ -15,7 +15,7 @@ public class Client {
     }
 
     /**
-     * Client has a dependency on builders.
+     * USPlug has a dependency on builders.
      * Managing director no longer hides the builders from client.
      */
     Client(List<IProductBuilder> builderList) {
