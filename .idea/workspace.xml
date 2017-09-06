@@ -2,173 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d6e9a00-eafc-4961-b779-963f9d031a93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/OctaveReplacement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/chainofresponsibility/examplebook/ChainOfResponsibilityPatternEx.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/chainofresponsibility/examplebook/ErrorHandlers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/chainofresponsibility/examplebook/IReceiverOrHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/chainofresponsibility/examplebook/IssueRaiser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/chainofresponsibility/examplebook/Message.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/CommandsClassDependency.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/ICommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/IDomainCommandDependencyAtClassLevel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/InvokerOrMenuSelectorActionDecoupler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/Receiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/ReceiverOrServerOrDocument.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/ContextGlobalInformation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/IExpressionOrRegex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/IntToWordsTerminalExp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/InterpreterPatternEx.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/StringToBinaryTerminalExp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Arts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/IIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/ISubject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/IteratorPatternEx.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Science.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/examplebook/AbstractFactoryPatternExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/examplebook/ActionMovieFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/examplebook/BollywoodActionMovie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/examplebook/BollywoodComedyMovie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/examplebook/ComedyMovieFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/examplebook/IBollywoodMovie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/examplebook/IMovieFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/examplebook/ITollywoodMovie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/examplebook/TollywoodActionMovie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/examplebook/TollywoodComedyMovie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/examplebook/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/examplebook/Director.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/examplebook/IBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/examplebook/MotorCycle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/examplebook/Product.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/mazeexample/MazeBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/mazeexample/MazeGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/rtfreader/ASCIIConverter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/rtfreader/ASCIIText.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/rtfreader/Font.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/rtfreader/RTFReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/rtfreader/TeXText.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/rtfreader/Text.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/rtfreader/TextConverter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/rtfreader/TextWidgetConverter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/rtfreader/Type.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/examplebook/AnimalImplementors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/examplebook/ConcreteFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/examplebook/IAnimal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/examplebook/IAnimalFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/generics/Bar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/generics/Factory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/generics/Generic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/generics/GenericsUsingIterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/manipulator/Figure.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/manipulator/LineFigure.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/manipulator/LineManipulator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/manipulator/Manipulator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/manipulator/TextFigure.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/manipulator/TextManipulator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/motivation/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/motivation/MyProduct.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/motivation/SpecialProduct.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/structure/ConcreteCreator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/structure/ConcreteProduct.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/structure/Creator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/structure/Product.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/structure/StandardCreator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/prototype/cloning/Color.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/prototype/cloning/ColoredCircle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/prototype/cloning/MainObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/prototype/examplebook/BasicCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/prototype/examplebook/Ford.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/prototype/examplebook/Nano.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/prototype/mazeexample/MazePrototypeFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/prototype/structure/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/prototype/structure/ConcretePrototype1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/prototype/structure/ConcretePrototype2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/prototype/structure/Prototype.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/Singleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/SingletonSubclass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/concurrency/B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/concurrency/SyncTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/examplebook/MakeACaptain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/adapter/main/AdapteeNeedsAdapting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/adapter/main/Adapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/adapter/main/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/adapter/main/IDomainSpecificTarget.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/adapter/plugpoint/ClassAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/adapter/plugpoint/ClientThreePinSocket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/adapter/plugpoint/ClientTwoPinSocket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/adapter/plugpoint/ITwoPin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/adapter/plugpoint/ObjectAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/adapter/plugpoint/TwoPinPlug.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/bridge/examplebook/AbstractShape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/bridge/examplebook/BridgePatternExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/bridge/examplebook/GreenColor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/bridge/examplebook/IColor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/bridge/examplebook/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/bridge/examplebook/RedColor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/bridge/examplebook/Triangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/advanced/examplebook/Cacheable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/advanced/examplebook/CompositePatternExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/advanced/examplebook/ITeacherComponent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/advanced/examplebook/LabAssistantLeafType2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/advanced/examplebook/SpecialRoleLeafType3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/advanced/examplebook/TeacherComposite.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/advanced/examplebook/TeacherLeafType1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/examplebook/CompositePatternExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/examplebook/ITeacher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/examplebook/Teacher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/decorator/AbstractDecorator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/decorator/Component.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/decorator/ConcreteComponent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/decorator/Decorators.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/flyweight/FlyweightPatternClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/flyweight/IRobot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/flyweight/RobotFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/structural/flyweight/Robots.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/factorymethod/Application.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ClientTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/creational/builder/ClientTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/factorymethod/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/factorymethod/MyApplication.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/factorymethod/Product.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/ClientTest.java" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/USTwoPingPlugTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/creational/builder/ClientTest.java" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/USTwoPingPlugTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/factorymethod/MyApplication.java" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/motivation/MyApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/factorymethod/Product.java" afterPath="$PROJECT_DIR$/src/main/java/creational/factorymethod/motivation/Product.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/AbstractFactory.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/AbstractFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/AbstractProduct1.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/AbstractProduct1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/AbstractProduct2.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/AbstractProduct2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/Client.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/Client.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteFactory1.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteFactory1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteFactory2.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteFactory2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteProduct1ForFactory1.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteProduct1ForFactory1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteProduct1ForFactory2.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteProduct1ForFactory2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteProduct2ForFactory1.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteProduct2ForFactory1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteProduct2ForFactory2.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/ConcreteProduct2ForFactory2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/Client.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/Client.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/MotifScrollBar.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/MotifScrollBar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/MotifWidgetFactory.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/MotifWidgetFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/MotifWindow.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/MotifWindow.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/Scrollbar.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/Scrollbar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/WidgetFactory.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/WidgetFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/Window.class" afterPath="$PROJECT_DIR$/target/classes/creational/abstractfactory/widgetexample/Window.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/builder/Client.class" afterPath="$PROJECT_DIR$/target/classes/creational/builder/Client.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/builder/ConcreteBuilder1.class" afterPath="$PROJECT_DIR$/target/classes/creational/builder/ConcreteBuilder1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/builder/ConcreteBuilder2.class" afterPath="$PROJECT_DIR$/target/classes/creational/builder/ConcreteBuilder2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/builder/IProductBuilder.class" afterPath="$PROJECT_DIR$/target/classes/creational/builder/IProductBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/builder/ManagingDirector1.class" afterPath="$PROJECT_DIR$/target/classes/creational/builder/ManagingDirector1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/builder/ManagingDirector2.class" afterPath="$PROJECT_DIR$/target/classes/creational/builder/ManagingDirector2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/creational/builder/Product.class" afterPath="$PROJECT_DIR$/target/classes/creational/builder/Product.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/Chatters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/ConcreteMediator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/FriendOrWidget.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/Mediator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/memento/examplebook/Caretaker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/memento/examplebook/Memento.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/memento/examplebook/Originator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ChangeManagerMediator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ConcreteIObservers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ConcreteSubject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/DAGChangeManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/IObserver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/SimpleChangeManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/Subject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/AvailableStatesProvidingNewBehavior.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/ElectronicEquipment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/MP3Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/StatePatternEx.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/TV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/IOriginalInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/IVisitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/MyClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/Visitor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/behavioral/iterator/examplebook/IteratorPatternEx.class" afterPath="$PROJECT_DIR$/target/classes/behavioral/iterator/examplebook/IteratorPatternEx.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/designpatterns.iml" afterPath="$PROJECT_DIR$/designpatterns.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/mazeexample/BombedMazeFactory.java" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/mazeexample/BombedMazeFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/mazeexample/MazeGame.java" afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/mazeexample/MazeGame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/creational/builder/Client.java" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/Client.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/creational/maze/Door.java" afterPath="$PROJECT_DIR$/src/main/java/creational/maze/Door.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/creational/maze/Maze.java" afterPath="$PROJECT_DIR$/src/main/java/creational/maze/Maze.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/creational/maze/Wall.java" afterPath="$PROJECT_DIR$/src/main/java/creational/maze/Wall.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Arts.java" afterPath="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Arts.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -183,73 +43,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.27799737">
-      <split-first>
-        <splitter split-orientation="horizontal" split-proportion="0.5">
-          <split-first>
-            <leaf>
-              <file leaf-file-name="Science.java" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Science.java">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="435">
-                      <caret line="37" column="42" lean-forward="false" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-                      <folding>
-                        <element signature="method#Science#0;class#Science#0" expanded="false" />
-                        <element signature="e#389#390#0" expanded="true" />
-                        <element signature="e#441#442#0" expanded="true" />
-                        <element signature="method#ScienceIterator#0;class#ScienceIterator#0;class#Science#0" expanded="false" />
-                        <element signature="e#762#763#0" expanded="true" />
-                        <element signature="e#820#821#0" expanded="true" />
-                        <element signature="e#870#871#0" expanded="true" />
-                        <element signature="e#925#926#0" expanded="true" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf>
-              <file leaf-file-name="Arts.java" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Arts.java">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="150">
-                      <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="IteratorPatternEx.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/IteratorPatternEx.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Arts.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Arts.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -288,44 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/creational/singleton/examplebook/MakeACaptain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/creational/singleton/concurrency/SyncTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/creational/singleton/concurrency/B.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structural/decorator/Component.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structural/decorator/AbstractDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structural/decorator/ConcreteComponent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structural/decorator/Robots.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structural/flyweight/Decorators.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structural/decorator/Decorators.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structural/flyweight/IRobot.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structural/flyweight/Robots.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structural/flyweight/RobotFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/structural/flyweight/FlyweightPatternClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/examplebook/IReceiverHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/examplebook/IReceiverOrHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/examplebook/ErrorHandlers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/examplebook/MessagePriority.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/examplebook/Message.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/examplebook/IssueRaiser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/examplebook/ChainOfResponsibilityPatternEx.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/ReceiverOrServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/Invoker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/Application.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/ReceiverOrServerOrDocument.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/ICommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/InvokerOrMenuSelectorAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/IDomain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/Server.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/IDomainCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/Commands.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/InvokerOrMenuSelectorActionDecoupler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/ICommandMethodDependency.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/CommandsMethodDependency.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/IDomainCommandDependencyAtMethodLevel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/Receiver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/IDomainCommandDependencyAtClassLevel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/command/CommandsClassDependency.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/IExpression.java" />
         <option value="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/StringToBinaryExp.java" />
         <option value="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/StringToBinaryTerminalExp.java" />
         <option value="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/IntToWords.java" />
@@ -334,11 +90,49 @@
         <option value="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/ContextGlobalInformation.java" />
         <option value="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/InterpreterPatternEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/behavioral/interpreter/examplebook/IteratorPatternEx.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/IIterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Science.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/IteratorPatternEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Arts.java" />
         <option value="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/ISubject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/IteratorPatternEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/IIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Science.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/Friend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/Friend1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/Chatters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/FriendOrWidget.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/ConcreteMediator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/memento/examplebook/Originator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/memento/examplebook/Caretaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/memento/examplebook/Memento.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/Observer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ConcreteObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ConcreteObserver1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/IObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ConcreteIObserver1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ConcreteIObservers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ChangeManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ConcreteSubject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/SimpleChangeManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ChangeManagerMediator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/DAGChangeManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/Subject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/RemoteControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/RemoteControlOrInBuiltButton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/Off.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/AllStatesProvidingNewBehavior.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/RemoteControlOrInBuiltButtonState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/OnOffState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/States.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/MP3Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/TV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/ElectronicEquipment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/AvailableStatesProvidingNewBehavior.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/StatePatternEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/IOriginalInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/IVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/Visitor.java" />
       </list>
     </option>
   </component>
@@ -501,100 +295,6 @@
               <option name="myItemId" value="behavioral" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examplebook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Arts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designpatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designpatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="behavioral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examplebook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designpatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designpatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="behavioral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designpatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designpatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="behavioral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examplebook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -618,26 +318,26 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="behavioral.state.examplebook" />
+      <recent name="behavioral.observer.examplebook" />
       <recent name="behavioral.iterator.examplebook" />
       <recent name="behavioral.interpreter.examplebook" />
       <recent name="behavioral.command" />
-      <recent name="creational.prototype.examplebook" />
-      <recent name="creational.builder.examplebook" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/creational/abstractfactory/examplebook" />
       <recent name="$PROJECT_DIR$/src/main/java/structural/composite/advanced" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IteratorPatternEx">
-    <configuration default="false" name="ChainOfResponsibilityPatternEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Visitor">
+    <configuration default="false" name="ConcreteMediator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="behavioral.examplebook.*" />
+          <option name="PATTERN" value="behavioral.mediator.examplebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="behavioral.examplebook.ChainOfResponsibilityPatternEx" />
+      <option name="MAIN_CLASS_NAME" value="behavioral.mediator.examplebook.ConcreteMediator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -650,14 +350,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="InvokerOrMenuSelectorActionDecoupler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Memento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="behavioral.command.*" />
+          <option name="PATTERN" value="behavioral.memento.examplebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="behavioral.command.InvokerOrMenuSelectorActionDecoupler" />
+      <option name="MAIN_CLASS_NAME" value="behavioral.memento.examplebook.Memento" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -670,14 +370,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ContextGlobalInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ConcreteSubject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="behavioral.iterator.examplebook.*" />
+          <option name="PATTERN" value="behavioral.observer.examplebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="behavioral.interpreter.examplebook.ContextGlobalInformation" />
+      <option name="MAIN_CLASS_NAME" value="behavioral.observer.examplebook.ConcreteSubject" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -690,14 +390,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="InterpreterPatternEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="StatePatternEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="behavioral.iterator.examplebook.*" />
+          <option name="PATTERN" value="behavioral.state.examplebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="behavioral.interpreter.examplebook.InterpreterPatternEx" />
+      <option name="MAIN_CLASS_NAME" value="behavioral.state.examplebook.StatePatternEx" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -710,14 +410,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="IteratorPatternEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Visitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="behavioral.iterator.examplebook.*" />
+          <option name="PATTERN" value="behavioral.visitor.examplebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="behavioral.iterator.examplebook.IteratorPatternEx" />
+      <option name="MAIN_CLASS_NAME" value="behavioral.visitor.examplebook.Visitor" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1189,19 +889,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ChainOfResponsibilityPatternEx" />
-      <item index="1" class="java.lang.String" itemvalue="Application.InvokerOrMenuSelectorActionDecoupler" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ContextGlobalInformation" />
-      <item index="3" class="java.lang.String" itemvalue="Application.InterpreterPatternEx" />
-      <item index="4" class="java.lang.String" itemvalue="Application.IteratorPatternEx" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ConcreteMediator" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Memento" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ConcreteSubject" />
+      <item index="3" class="java.lang.String" itemvalue="Application.StatePatternEx" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Visitor" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.IteratorPatternEx" />
-        <item index="1" class="java.lang.String" itemvalue="Application.InterpreterPatternEx" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ContextGlobalInformation" />
-        <item index="3" class="java.lang.String" itemvalue="Application.InvokerOrMenuSelectorActionDecoupler" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ChainOfResponsibilityPatternEx" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Visitor" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StatePatternEx" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ConcreteSubject" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Memento" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ConcreteMediator" />
       </list>
     </recent_temporary>
   </component>
@@ -1240,47 +940,47 @@
       <workItem from="1504079987185" duration="1507000" />
       <workItem from="1504131042489" duration="4196000" />
       <workItem from="1504246800946" duration="18130000" />
-      <workItem from="1504397050921" duration="3795000" />
+      <workItem from="1504397050921" duration="30274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96319000" />
+    <option name="totallyTimeSpent" value="122798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32380953" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45849803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2790531" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Notes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37022397" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32279316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29380766" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2790531" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1360,8 +1060,20 @@
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/FriendOrWidget.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/MP3Player.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1370,195 +1082,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/builder/examplebook/Director.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/builder/examplebook/MotorCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/builder/examplebook/IBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/factorymethod/examplebook/IAnimalFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/factorymethod/examplebook/IAnimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/factorymethod/examplebook/ConcreteFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/factorymethod/examplebook/AnimalImplementors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/prototype/examplebook/Ford.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/prototype/examplebook/BasicCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="32" lean-forward="false" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/prototype/examplebook/Nano.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="744" column="0" lean-forward="false" selection-start-line="744" selection-start-column="0" selection-end-line="744" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/singleton/examplebook/MakeACaptain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/singleton/concurrency/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/singleton/concurrency/SyncTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structural/decorator/AbstractDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structural/decorator/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structural/decorator/ConcreteComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structural/decorator/Decorators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="74" lean-forward="false" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structural/flyweight/IRobot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structural/flyweight/FlyweightPatternClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="23" column="56" lean-forward="false" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structural/flyweight/RobotFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="36" column="44" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/structural/flyweight/Robots.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/chainofresponsibility/examplebook/IReceiverOrHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/examplebook/MessagePriority.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/chainofresponsibility/examplebook/ErrorHandlers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="37" column="53" lean-forward="false" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/chainofresponsibility/examplebook/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="99" lean-forward="false" selection-start-line="5" selection-start-column="99" selection-end-line="5" selection-end-column="99" />
-          <folding>
-            <element signature="e#236#237#0" expanded="false" />
-            <element signature="e#268#269#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/chainofresponsibility/examplebook/ChainOfResponsibilityPatternEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/chainofresponsibility/examplebook/IssueRaiser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1574,6 +1097,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1584,6 +1108,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1598,6 +1123,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1605,6 +1133,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1620,6 +1149,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1634,6 +1164,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="93" lean-forward="false" selection-start-line="22" selection-start-column="93" selection-end-line="22" selection-end-column="93" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1641,6 +1172,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
           <caret line="107" column="55" lean-forward="true" selection-start-line="107" selection-start-column="55" selection-end-line="107" selection-end-column="55" />
+          <folding>
+            <element signature="class#MyNormalSizeCommand#0;class#CommandsClassDependency#0" expanded="false" />
+            <element signature="class#MyMacroCenterAtNormalSizeCommand#0;class#CommandsClassDependency#0" expanded="false" />
+            <element signature="e#4502#4503#0" expanded="false" />
+            <element signature="e#4541#4542#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1683,57 +1220,316 @@
         <state relative-caret-position="30">
           <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
           <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="false" />
+            <element signature="e#196#197#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/IIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Arts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="480">
+          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#338#339#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+            <element signature="e#792#793#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/ISubject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="30">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/IteratorPatternEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/IIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/chainofresponsibility/examplebook/ChainOfResponsibilityPatternEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Science.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="37" column="42" lean-forward="false" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+        <state relative-caret-position="300">
+          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding>
-            <element signature="method#Science#0;class#Science#0" expanded="false" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#441#442#0" expanded="false" />
             <element signature="method#ScienceIterator#0;class#ScienceIterator#0;class#Science#0" expanded="false" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="false" />
+            <element signature="e#925#926#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/IteratorPatternEx.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/Mediator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="45">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/iterator/examplebook/Arts.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/Boss.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/FriendOrWidget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/Chatters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/mediator/examplebook/ConcreteMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/memento/examplebook/Memento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="e#191#192#0" expanded="false" />
+            <element signature="e#224#225#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/memento/examplebook/Originator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="62" lean-forward="false" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/memento/examplebook/Caretaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#141#142#0" expanded="false" />
+            <element signature="e#179#180#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="270" column="29" lean-forward="false" selection-start-line="270" selection-start-column="29" selection-end-line="270" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ChangeManagerMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="66" lean-forward="false" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+          <folding>
+            <element signature="e#198#199#0" expanded="false" />
+            <element signature="e#261#262#0" expanded="false" />
+            <element signature="e#305#306#0" expanded="false" />
+            <element signature="e#370#371#0" expanded="false" />
+            <element signature="e#412#413#0" expanded="false" />
+            <element signature="e#475#476#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ConcreteSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/ConcreteIObservers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/DAGChangeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/IObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/observer/examplebook/SimpleChangeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="e#528#529#0" expanded="false" />
+            <element signature="e#570#571#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/TV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/MP3Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/ElectronicEquipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="e#146#147#0" expanded="false" />
+            <element signature="e#180#181#0" expanded="false" />
+            <element signature="e#214#215#0" expanded="false" />
+            <element signature="e#248#249#0" expanded="false" />
+            <element signature="e#494#495#0" expanded="false" />
+            <element signature="e#533#534#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/StatePatternEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/AvailableStatesProvidingNewBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/state/examplebook/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/IOriginalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/visitor/examplebook/IVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
           <folding />
         </state>
       </provider>

@@ -7,8 +7,8 @@ public class Arts implements ISubject {
 
     Arts() {
         subjects = new String[2];
-        subjects[0] = "Bengali";
-        subjects[1] = "English";
+        subjects[0] = "Physics";
+        subjects[1] = "Chemistry";
     }
     @Override
     public IIterator createIterator() {
