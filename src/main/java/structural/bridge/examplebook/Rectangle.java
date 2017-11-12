@@ -10,7 +10,7 @@ public class Rectangle extends AbstractShape {
 
     // implementation specific
     void drawShape() {
-        System.out.println("Drawing Rectangle");
+        System.out.println("Drawing Rect");
         this.color.addColor();
     }
 
